@@ -1,0 +1,9 @@
+{
+	"name": "liwa-adf",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a711002a-7767-4f53-bf5e-8e28f83d9394",
+		"tenantId": "a86bc255-9bb7-4ee8-b30a-51fba84872aa"
+	}
+}
